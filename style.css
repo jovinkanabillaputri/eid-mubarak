@@ -1,0 +1,11 @@
+/* Gaya umum untuk body */
+body {
+    background-image: url('images/Ramadhan.jpg');  /* Pastikan gambar Ramadhan.jpg ada di folder images */
+    background-size: cover;
+    background-position: center;
+}
+
+/* Gaya lainnya */
+.bg-grey {
+    background-color: #d1d5db;
+}
