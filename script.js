@@ -10,7 +10,9 @@ function ubahKartu() {
     let kartu = document.getElementById("kartu");
     kartu.innerHTML = `
         <h1 class="font-semibold text-wrap animate__animated animate__zoomIn">
-            🎉🎉 May on this blessed day, we all be given the opportunity to improve ourselves...
+            🎉🎉 May on this blessed day, we all be given the opportunity to improve ourselves, strengthen our ties, and receive His forgiveness. May all our good deeds be accepted and our sins be forgiven.
+    Please forgive us physically and mentally for all our mistakes and errors so far. May happiness, peace, and blessings always be with us all.    
+    Taqabbalallahu minna wa minkum, shiyamana wa shiyamakum. 🎉🎉
         </h1>
         <h2 class="mt-3 animate__animated animate__fadeIn">
             - From : Jevvier Rafael J -
